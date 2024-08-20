@@ -1,4 +1,4 @@
-/data/ip-tracker/ip-tracker.log  {
+/var/log/ip-tracker/ip-tracker.log  {
 	weekly
 	rotate 4
 	missingok

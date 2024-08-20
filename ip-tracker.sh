@@ -1,6 +1,6 @@
 #! /bin/bash
 
-exec >> /data/ip-tracker/ip-tracker.log 2>&1
+exec >> /var/log/ip-tracker/ip-tracker.log 2>&1
 
 Main (){
 	if [[ -z $1 ]]; then

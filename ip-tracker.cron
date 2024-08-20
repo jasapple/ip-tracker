@@ -1,1 +1,1 @@
-0 * * * * root /data/ip-tracker/tracker.sh lab.jasapple.com
+0 * * * * root /opt/ip-tracker/ip-tracker.sh remote.example.com
